@@ -34,9 +34,9 @@ A post-processor for the finite element code SAFIR®. This new version is based 
 ![Diamond](https://raw.githubusercontent.com/jdromeiro/Portfolio/master/Diamond.png)
 
 ### Technologies
-Diamond is written in C#, uses WPF, and reads results written in XML files.
+Diamond is written in C#, uses WPF, uses the NuGet packages Extended WPF Toolkit, Oxyplot and SharpAVI, and parses results written in XML files.
 
 ### More Info
 Technical info: http://www.uee.uliege.be/cms/c_2383458/en/safir
 
-Purchase: https://www.gesval.be/en/catalogue/safir-2016-commercial
+Purchase SAFIR: https://www.gesval.be/en/catalogue/safir-2016-commercial
